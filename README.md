@@ -1,26 +1,9 @@
-# Quasar App (vue_test)
-
-A Quasar Framework app
-
-## Install the dependencies
+## Установка зависимостей
 ```bash
 yarn
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Запуск приложения в режиме разработки
 ```bash
 quasar dev
 ```
-
-### Lint the files
-```bash
-yarn run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
